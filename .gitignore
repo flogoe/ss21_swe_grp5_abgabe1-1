@@ -39,3 +39,5 @@ yarn.lock
 .DS_Store
 Thumbs.db
 **/Jenkinsfile
+package.json
+*package.json
